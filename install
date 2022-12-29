@@ -20,3 +20,4 @@ echo "Installing $HOME/.config/nvim"
 ln -sf $HOME/Dotfiles/.config/nvim $HOME/.config/nvim
 
 
+asdf
